@@ -30,7 +30,7 @@ client.on('message', message => {
             message.channel.send("Black, I'm sorry. It must be done.", attach);
     }
     if (message.content === 'dpb does sheu porn exist') {
-        const attach = new Discord.MessageAttachment("https://media.discordapp.net/attachments/704578641249435698/704596322291810334/sheupenis.png", "SPOILER_sheupenis.png", { spoiler: true });
+        const attach = new Discord.MessageAttachment("https://media.discordapp.net/attachments/704578641249435698/704733750063267840/sheupenis2.png", "SPOILER_sheupenis2.png", { spoiler: true });
         message.channel.send("Sheu's penis is tiny haha.", attach);
     }
 });
